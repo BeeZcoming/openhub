@@ -1,0 +1,60 @@
+name: Collect resources
+
+# 写成 "on" 是为了让 YAML 1.1 解析器（部分校验工具）也能正确识别触发条件
+"on":
+  schedule:
+    - cron: '0 0 * * *'          # 每天 UTC 0 点 = 北京时间 08:00
+  workflow_dispatch:              # 手动触发（可临时改 topic / stars 阈值）
+  push:
+    paths: ['scripts/**', '.github/workflows/collect.yml']
+
+permissions:
+  contents: write                 # checkout + bot 提交 data/ 需要
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: collect-data
+      cancel-in-progress: true
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install -r scripts/requirements.txt
+      - name: Run collector
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # 可选：拉 raw README 时走自建加速代理（仓库 Variables）
+          RAW_PROXY_PREFIX: ${{ vars.RAW_PROXY_PREFIX }}
+          # 可选：覆盖默认采集参数
+          COLLECT_TOPICS: ${{ vars.COLLECT_TOPICS }}
+          COLLECT_MIN_STARS: ${{ vars.COLLECT_MIN_STARS }}
+        run: python scripts/collect.py
+      - name: Commit data
+        run: |
+          git config user.name "openpick-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/incoming data/readmes
+          git diff --staged --quiet || \
+            (git commit -m "chore(data): daily collect $(date +%F)" && git push)
+
+  # 可选：采集完成后通知宝塔服务器立即 pull + 重建。
+  # 不配置 vars.SITE_HOOK_URL 时本 job 自动跳过，请用宝塔计划任务兜底（更稳）。
+  notify:
+    needs: collect
+    if: ${{ vars.SITE_HOOK_URL != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger server rebuild
+        env:
+          HOOK_URL: ${{ vars.SITE_HOOK_URL }}
+          HOOK_TOKEN: ${{ secrets.SITE_HOOK_TOKEN }}
+        run: |
+          code=$(curl -sS -o /tmp/hook.json -w '%{http_code}' \
+            -X POST -H "X-Openpick-Token: $HOOK_TOKEN" \
+            -H 'Content-Type: application/json' \
+            --max-time 30 --retry 2 --retry-delay 3 "$HOOK_URL")
+          echo "HTTP $code"
+          cat /tmp/hook.json || true
+          [ "$code" = "200" ] || (echo "hook 失败，服务器计划任务会兜底"; exit 0)
