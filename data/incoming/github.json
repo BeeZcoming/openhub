@@ -1,0 +1,1054 @@
+{
+  "generated_at": "2026-11-12T06:21:00.353245",
+  "items": [
+    {
+      "id": "gh-public-apis-public-apis",
+      "type": "software",
+      "title": {
+        "zh": "public-apis",
+        "en": "public-apis"
+      },
+      "description": {
+        "zh": "",
+        "en": "A collective list of free APIs"
+      },
+      "url": "https://github.com/public-apis/public-apis",
+      "repo": "public-apis/public-apis",
+      "category": [],
+      "tags": [
+        "api",
+        "apis",
+        "dataset",
+        "development",
+        "free",
+        "list"
+      ],
+      "license": "MIT",
+      "stars": 498326,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-f-prompts.chat",
+      "type": "software",
+      "title": {
+        "zh": "prompts.chat",
+        "en": "prompts.chat"
+      },
+      "description": {
+        "zh": "",
+        "en": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy."
+      },
+      "url": "https://github.com/f/prompts.chat",
+      "repo": "f/prompts.chat",
+      "category": [],
+      "tags": [
+        "ai",
+        "artificial-intelligence",
+        "awesome-list",
+        "chatgpt",
+        "chatgpt-prompts",
+        "claude"
+      ],
+      "license": "NOASSERTION",
+      "stars": 176943,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-farion1231-cc-switch",
+      "type": "software",
+      "title": {
+        "zh": "cc-switch",
+        "en": "cc-switch"
+      },
+      "description": {
+        "zh": "",
+        "en": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io"
+      },
+      "url": "https://github.com/farion1231/cc-switch",
+      "repo": "farion1231/cc-switch",
+      "category": [],
+      "tags": [
+        "ai-tools",
+        "claude-code",
+        "codex",
+        "deepseek-harness",
+        "desktop-app",
+        "grok"
+      ],
+      "license": "MIT",
+      "stars": 153753,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-langchain-ai-langchain",
+      "type": "software",
+      "title": {
+        "zh": "langchain",
+        "en": "langchain"
+      },
+      "description": {
+        "zh": "",
+        "en": "The agent engineering platform."
+      },
+      "url": "https://github.com/langchain-ai/langchain",
+      "repo": "langchain-ai/langchain",
+      "category": [],
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "deepagents"
+      ],
+      "license": "MIT",
+      "stars": 149388,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-x1xhlol-system-prompts-and-models-of-ai-tools",
+      "type": "software",
+      "title": {
+        "zh": "system-prompts-and-models-of-ai-tools",
+        "en": "system-prompts-and-models-of-ai-tools"
+      },
+      "description": {
+        "zh": "",
+        "en": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+      },
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "category": [],
+      "tags": [
+        "ai",
+        "bolt",
+        "cluely",
+        "copilot",
+        "cursor",
+        "cursorai"
+      ],
+      "license": "GPL-3.0",
+      "stars": 144621,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-godotengine-godot",
+      "type": "software",
+      "title": {
+        "zh": "godot",
+        "en": "godot"
+      },
+      "description": {
+        "zh": "",
+        "en": "Godot Engine – Multi-platform 2D and 3D game engine"
+      },
+      "url": "https://github.com/godotengine/godot",
+      "repo": "godotengine/godot",
+      "category": [],
+      "tags": [
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "godot",
+        "godotengine",
+        "multi-platform"
+      ],
+      "license": "MIT",
+      "stars": 120008,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-unclecode-crawl4ai",
+      "type": "software",
+      "title": {
+        "zh": "crawl4ai",
+        "en": "crawl4ai"
+      },
+      "description": {
+        "zh": "",
+        "en": "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it."
+      },
+      "url": "https://github.com/unclecode/crawl4ai",
+      "repo": "unclecode/crawl4ai",
+      "category": [],
+      "tags": [
+        "ai",
+        "ai-agents",
+        "crawl4ai-cloud",
+        "crawler",
+        "data-extraction",
+        "llm"
+      ],
+      "license": "Apache-2.0",
+      "stars": 87250,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-rtk-ai-rtk",
+      "type": "software",
+      "title": {
+        "zh": "rtk",
+        "en": "rtk"
+      },
+      "description": {
+        "zh": "",
+        "en": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies"
+      },
+      "url": "https://github.com/rtk-ai/rtk",
+      "repo": "rtk-ai/rtk",
+      "category": [],
+      "tags": [
+        "agentic-coding",
+        "ai-coding",
+        "anthropic",
+        "claude-code",
+        "cli",
+        "command-line-tool"
+      ],
+      "license": "Apache-2.0",
+      "stars": 86276,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-career-ops-hq-career-ops",
+      "type": "software",
+      "title": {
+        "zh": "career-ops",
+        "en": "career-ops"
+      },
+      "description": {
+        "zh": "",
+        "en": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin."
+      },
+      "url": "https://github.com/career-ops-hq/career-ops",
+      "repo": "career-ops-hq/career-ops",
+      "category": [],
+      "tags": [
+        "agent-skills",
+        "ai-agent",
+        "ai-job-search",
+        "ats",
+        "career",
+        "career-ops"
+      ],
+      "license": "MIT",
+      "stars": 82051,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-openmontageinc-openmontage",
+      "type": "software",
+      "title": {
+        "zh": "OpenMontage",
+        "en": "OpenMontage"
+      },
+      "description": {
+        "zh": "",
+        "en": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+      },
+      "url": "https://github.com/OpenMontageInc/OpenMontage",
+      "repo": "OpenMontageInc/OpenMontage",
+      "category": [],
+      "tags": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "claude",
+        "copilot",
+        "cursor"
+      ],
+      "license": "AGPL-3.0",
+      "stars": 79766,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-redis-redis",
+      "type": "software",
+      "title": {
+        "zh": "redis",
+        "en": "redis"
+      },
+      "description": {
+        "zh": "",
+        "en": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
+      },
+      "url": "https://github.com/redis/redis",
+      "repo": "redis/redis",
+      "category": [],
+      "tags": [
+        "cache",
+        "caching",
+        "database",
+        "distributed-systems",
+        "in-memory",
+        "in-memory-database"
+      ],
+      "license": "NOASSERTION",
+      "stars": 77467,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-meta-docusaurus",
+      "type": "software",
+      "title": {
+        "zh": "docusaurus",
+        "en": "docusaurus"
+      },
+      "description": {
+        "zh": "",
+        "en": "Easy to maintain open source documentation websites."
+      },
+      "url": "https://github.com/meta/docusaurus",
+      "repo": "meta/docusaurus",
+      "category": [],
+      "tags": [
+        "documentation",
+        "hacktoberfest",
+        "javascript",
+        "open-source",
+        "react",
+        "website"
+      ],
+      "license": "MIT",
+      "stars": 66715,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-usememos-memos",
+      "type": "software",
+      "title": {
+        "zh": "memos",
+        "en": "memos"
+      },
+      "description": {
+        "zh": "",
+        "en": "Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share."
+      },
+      "url": "https://github.com/usememos/memos",
+      "repo": "usememos/memos",
+      "category": [],
+      "tags": [
+        "docker",
+        "foss",
+        "go",
+        "markdown",
+        "memo",
+        "microblog"
+      ],
+      "license": "MIT",
+      "stars": 64410,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-twentyhq-twenty",
+      "type": "software",
+      "title": {
+        "zh": "twenty",
+        "en": "twenty"
+      },
+      "description": {
+        "zh": "",
+        "en": "The open alternative to Salesforce, designed for AI."
+      },
+      "url": "https://github.com/twentyhq/twenty",
+      "repo": "twentyhq/twenty",
+      "category": [],
+      "tags": [
+        "crm",
+        "crm-system",
+        "customer",
+        "good-first-issue",
+        "graphql",
+        "hacktoberfest"
+      ],
+      "license": "NOASSERTION",
+      "stars": 60810,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-firstcontributions-first-contributions",
+      "type": "software",
+      "title": {
+        "zh": "first-contributions",
+        "en": "first-contributions"
+      },
+      "description": {
+        "zh": "",
+        "en": "🚀✨ Help beginners to contribute to open source projects"
+      },
+      "url": "https://github.com/firstcontributions/first-contributions",
+      "repo": "firstcontributions/first-contributions",
+      "category": [],
+      "tags": [
+        "beginner",
+        "beginner-friendly",
+        "contribute",
+        "contribution",
+        "contributions-welcome",
+        "good-first-contribution"
+      ],
+      "license": "MIT",
+      "stars": 56809,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-serhii-londar-open-source-mac-os-apps",
+      "type": "software",
+      "title": {
+        "zh": "open-source-mac-os-apps",
+        "en": "open-source-mac-os-apps"
+      },
+      "description": {
+        "zh": "",
+        "en": "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps"
+      },
+      "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+      "repo": "serhii-londar/open-source-mac-os-apps",
+      "category": [],
+      "tags": [
+        "applications",
+        "apps",
+        "awesome",
+        "awesome-list",
+        "c",
+        "c-plus-plus"
+      ],
+      "license": "CC0-1.0",
+      "stars": 51332,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-calcom-cal.diy",
+      "type": "software",
+      "title": {
+        "zh": "cal.diy",
+        "en": "cal.diy"
+      },
+      "description": {
+        "zh": "",
+        "en": "Scheduling infrastructure for absolutely everyone."
+      },
+      "url": "https://github.com/calcom/cal.diy",
+      "repo": "calcom/cal.diy",
+      "category": [],
+      "tags": [
+        "next-auth",
+        "nextjs",
+        "open-source",
+        "postgresql",
+        "prisma",
+        "t3-stack"
+      ],
+      "license": "MIT",
+      "stars": 49957,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-bevyengine-bevy",
+      "type": "software",
+      "title": {
+        "zh": "bevy",
+        "en": "bevy"
+      },
+      "description": {
+        "zh": "",
+        "en": "A refreshingly simple data-driven game engine built in Rust"
+      },
+      "url": "https://github.com/bevyengine/bevy",
+      "repo": "bevyengine/bevy",
+      "category": [],
+      "tags": [
+        "bevy",
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "open-source",
+        "rust"
+      ],
+      "license": "Apache-2.0",
+      "stars": 49700,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-githubdaily-githubdaily",
+      "type": "software",
+      "title": {
+        "zh": "GitHubDaily",
+        "en": "GitHubDaily"
+      },
+      "description": {
+        "zh": "",
+        "en": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub."
+      },
+      "url": "https://github.com/GitHubDaily/GitHubDaily",
+      "repo": "GitHubDaily/GitHubDaily",
+      "category": [],
+      "tags": [
+        "ai",
+        "algorithms-and-data-structures",
+        "backend",
+        "developer-tools",
+        "development",
+        "frontend"
+      ],
+      "license": null,
+      "stars": 48429,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-payloadcms-payload",
+      "type": "software",
+      "title": {
+        "zh": "payload",
+        "en": "payload"
+      },
+      "description": {
+        "zh": "",
+        "en": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+      },
+      "url": "https://github.com/payloadcms/payload",
+      "repo": "payloadcms/payload",
+      "category": [],
+      "tags": [
+        "cms",
+        "content-management",
+        "content-management-system",
+        "express",
+        "graphql",
+        "headless"
+      ],
+      "license": "MIT",
+      "stars": 45782,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-juspay-hyperswitch",
+      "type": "software",
+      "title": {
+        "zh": "hyperswitch",
+        "en": "hyperswitch"
+      },
+      "description": {
+        "zh": "",
+        "en": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation"
+      },
+      "url": "https://github.com/juspay/hyperswitch",
+      "repo": "juspay/hyperswitch",
+      "category": [],
+      "tags": [
+        "adyen",
+        "beginner-friendly",
+        "featured",
+        "finance",
+        "fintech",
+        "hacktoberfest"
+      ],
+      "license": "Apache-2.0",
+      "stars": 45764,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-janhq-jan",
+      "type": "software",
+      "title": {
+        "zh": "jan",
+        "en": "jan"
+      },
+      "description": {
+        "zh": "",
+        "en": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer."
+      },
+      "url": "https://github.com/janhq/jan",
+      "repo": "janhq/jan",
+      "category": [],
+      "tags": [
+        "chatgpt",
+        "gpt",
+        "llamacpp",
+        "llm",
+        "localai",
+        "open-source"
+      ],
+      "license": "NOASSERTION",
+      "stars": 45679,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-langchain-ai-langgraph",
+      "type": "software",
+      "title": {
+        "zh": "langgraph",
+        "en": "langgraph"
+      },
+      "description": {
+        "zh": "",
+        "en": "Build resilient agents."
+      },
+      "url": "https://github.com/langchain-ai/langgraph",
+      "repo": "langchain-ai/langgraph",
+      "category": [],
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise"
+      ],
+      "license": "MIT",
+      "stars": 44831,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-heyputer-puter",
+      "type": "software",
+      "title": {
+        "zh": "puter",
+        "en": "puter"
+      },
+      "description": {
+        "zh": "",
+        "en": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable."
+      },
+      "url": "https://github.com/HeyPuter/puter",
+      "repo": "HeyPuter/puter",
+      "category": [],
+      "tags": [
+        "cloud",
+        "cloud-os",
+        "cloud-storage",
+        "desktop",
+        "desktop-environment",
+        "dropbox"
+      ],
+      "license": "AGPL-3.0",
+      "stars": 44151,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-lyogavin-airllm",
+      "type": "software",
+      "title": {
+        "zh": "airllm",
+        "en": "airllm"
+      },
+      "description": {
+        "zh": "",
+        "en": "AirLLM 2.8T LLM inference with single 4GB GPU"
+      },
+      "url": "https://github.com/lyogavin/airllm",
+      "repo": "lyogavin/airllm",
+      "category": [],
+      "tags": [
+        "chinese-llm",
+        "chinese-nlp",
+        "finetune",
+        "generative-ai",
+        "instruct-gpt",
+        "instruction-set"
+      ],
+      "license": "Apache-2.0",
+      "stars": 42211,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-gitroomhq-postiz-app",
+      "type": "software",
+      "title": {
+        "zh": "postiz-app",
+        "en": "postiz-app"
+      },
+      "description": {
+        "zh": "",
+        "en": "📨 The ultimate agentic social media scheduling tool 🤖"
+      },
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "repo": "gitroomhq/postiz-app",
+      "category": [],
+      "tags": [
+        "nextjs",
+        "open-source",
+        "open-source-social-media-scheduling-tool",
+        "oss",
+        "postiz-cloud",
+        "postiz-hosted"
+      ],
+      "license": "AGPL-3.0",
+      "stars": 41407,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-codewhale-hq-codewhale",
+      "type": "software",
+      "title": {
+        "zh": "Codewhale",
+        "en": "Codewhale"
+      },
+      "description": {
+        "zh": "",
+        "en": "Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome"
+      },
+      "url": "https://github.com/codewhale-hq/Codewhale",
+      "repo": "codewhale-hq/Codewhale",
+      "category": [],
+      "tags": [
+        "agent-orchestration",
+        "ai-agent",
+        "cli",
+        "codewhale",
+        "coding-agent",
+        "developer-tools"
+      ],
+      "license": "MIT",
+      "stars": 41179,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-soxoj-maigret",
+      "type": "software",
+      "title": {
+        "zh": "maigret",
+        "en": "maigret"
+      },
+      "description": {
+        "zh": "",
+        "en": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites"
+      },
+      "url": "https://github.com/soxoj/maigret",
+      "repo": "soxoj/maigret",
+      "category": [],
+      "tags": [
+        "cli",
+        "cybersecurity",
+        "identification",
+        "information-gathering",
+        "infosec",
+        "investigation"
+      ],
+      "license": "MIT",
+      "stars": 40428,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-siddharthvaddem-openscreen",
+      "type": "software",
+      "title": {
+        "zh": "openscreen",
+        "en": "openscreen"
+      },
+      "description": {
+        "zh": "",
+        "en": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio."
+      },
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "repo": "siddharthvaddem/openscreen",
+      "category": [],
+      "tags": [
+        "electron",
+        "open-source",
+        "pixijs",
+        "screen-capture",
+        "screen-recorder"
+      ],
+      "license": "MIT",
+      "stars": 40026,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    },
+    {
+      "id": "gh-spacedriveapp-spacedrive",
+      "type": "software",
+      "title": {
+        "zh": "spacedrive",
+        "en": "spacedrive"
+      },
+      "description": {
+        "zh": "",
+        "en": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+      },
+      "url": "https://github.com/spacedriveapp/spacedrive",
+      "repo": "spacedriveapp/spacedrive",
+      "category": [],
+      "tags": [
+        "cross-platform",
+        "distributed-systems",
+        "encryption",
+        "file-manager",
+        "open-source",
+        "rust"
+      ],
+      "license": "Apache-2.0",
+      "stars": 39496,
+      "status": "draft",
+      "featured": false,
+      "managed_by": "bot",
+      "source": "github-api",
+      "created_at": "2026-11-12",
+      "updated_at": "2026-11-12",
+      "releases": {
+        "tag": null,
+        "assets": []
+      }
+    }
+  ]
+}

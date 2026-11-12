@@ -1,0 +1,265 @@
+{
+  "gh-public-apis-public-apis": {
+    "en": {
+      "source": "README.md",
+      "branch": "master",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-f-prompts.chat": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-farion1231-cc-switch": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-langchain-ai-langchain": {
+    "en": {
+      "source": "README.md",
+      "branch": "master",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-x1xhlol-system-prompts-and-models-of-ai-tools": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-godotengine-godot": {
+    "en": {
+      "source": "README.md",
+      "branch": "master",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-unclecode-crawl4ai": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-rtk-ai-rtk": {
+    "en": {
+      "source": "README.md",
+      "branch": "master",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    },
+    "zh": {
+      "source": "README_zh.md",
+      "branch": "master",
+      "lang": "zh",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-career-ops-hq-career-ops": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    },
+    "zh": {
+      "source": "README.cn.md",
+      "branch": "main",
+      "lang": "zh",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-openmontageinc-openmontage": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    },
+    "zh": {
+      "source": "README_zh-CN.md",
+      "branch": "main",
+      "lang": "zh",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-redis-redis": {
+    "en": {
+      "source": "README.md",
+      "branch": "master",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-meta-docusaurus": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-usememos-memos": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-twentyhq-twenty": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-firstcontributions-first-contributions": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-serhii-londar-open-source-mac-os-apps": {},
+  "gh-calcom-cal.diy": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-bevyengine-bevy": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-githubdaily-githubdaily": {
+    "en": {
+      "source": "README.md",
+      "branch": "master",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-payloadcms-payload": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-juspay-hyperswitch": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-janhq-jan": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    },
+    "zh": {
+      "source": "README.zh.md",
+      "branch": "main",
+      "lang": "zh",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-langchain-ai-langgraph": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-heyputer-puter": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-lyogavin-airllm": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-gitroomhq-postiz-app": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-codewhale-hq-codewhale": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-soxoj-maigret": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    },
+    "zh": {
+      "source": "README.zh-CN.md",
+      "branch": "main",
+      "lang": "zh",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-siddharthvaddem-openscreen": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  },
+  "gh-spacedriveapp-spacedrive": {
+    "en": {
+      "source": "README.md",
+      "branch": "main",
+      "lang": "en",
+      "fetched_at": "2026-11-12"
+    }
+  }
+}
