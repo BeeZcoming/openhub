@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T06:21:00.353245",
+  "generated_at": "2026-11-12T07:06:36.093742",
   "items": [
     {
       "id": "gh-public-apis-public-apis",
@@ -24,7 +24,7 @@
         "list"
       ],
       "license": "MIT",
-      "stars": 498326,
+      "stars": 498338,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -59,7 +59,7 @@
         "claude"
       ],
       "license": "NOASSERTION",
-      "stars": 176943,
+      "stars": 176947,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -94,7 +94,7 @@
         "grok"
       ],
       "license": "MIT",
-      "stars": 153753,
+      "stars": 153768,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -129,7 +129,7 @@
         "deepagents"
       ],
       "license": "MIT",
-      "stars": 149388,
+      "stars": 149387,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -164,7 +164,7 @@
         "cursorai"
       ],
       "license": "GPL-3.0",
-      "stars": 144621,
+      "stars": 144622,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -199,7 +199,7 @@
         "multi-platform"
       ],
       "license": "MIT",
-      "stars": 120008,
+      "stars": 120010,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -234,7 +234,7 @@
         "llm"
       ],
       "license": "Apache-2.0",
-      "stars": 87250,
+      "stars": 87252,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -269,7 +269,7 @@
         "command-line-tool"
       ],
       "license": "Apache-2.0",
-      "stars": 86276,
+      "stars": 86282,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -304,7 +304,7 @@
         "career-ops"
       ],
       "license": "MIT",
-      "stars": 82051,
+      "stars": 82058,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -339,7 +339,7 @@
         "cursor"
       ],
       "license": "AGPL-3.0",
-      "stars": 79766,
+      "stars": 79781,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -409,7 +409,7 @@
         "website"
       ],
       "license": "MIT",
-      "stars": 66715,
+      "stars": 66714,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -444,7 +444,7 @@
         "microblog"
       ],
       "license": "MIT",
-      "stars": 64410,
+      "stars": 64412,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -479,7 +479,7 @@
         "hacktoberfest"
       ],
       "license": "NOASSERTION",
-      "stars": 60810,
+      "stars": 60812,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -514,7 +514,7 @@
         "good-first-contribution"
       ],
       "license": "MIT",
-      "stars": 56809,
+      "stars": 56810,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -584,7 +584,7 @@
         "t3-stack"
       ],
       "license": "MIT",
-      "stars": 49957,
+      "stars": 49958,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -619,7 +619,7 @@
         "rust"
       ],
       "license": "Apache-2.0",
-      "stars": 49700,
+      "stars": 49701,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -724,7 +724,7 @@
         "hacktoberfest"
       ],
       "license": "Apache-2.0",
-      "stars": 45764,
+      "stars": 45763,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -864,7 +864,7 @@
         "instruction-set"
       ],
       "license": "Apache-2.0",
-      "stars": 42211,
+      "stars": 42215,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -899,7 +899,7 @@
         "postiz-hosted"
       ],
       "license": "AGPL-3.0",
-      "stars": 41407,
+      "stars": 41408,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
@@ -969,7 +969,7 @@
         "investigation"
       ],
       "license": "MIT",
-      "stars": 40428,
+      "stars": 40431,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",

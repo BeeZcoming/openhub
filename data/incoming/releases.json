@@ -7,161 +7,161 @@
         {
           "name": "CC-Switch-v4.0.30-Linux-arm64.AppImage",
           "size": "91.7 MB",
-          "downloads": 112,
+          "downloads": 131,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Linux-arm64.AppImage",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Linux-arm64.AppImage.sig",
           "size": "0.0 MB",
-          "downloads": 16,
+          "downloads": 18,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Linux-arm64.AppImage.sig",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Linux-arm64.deb",
           "size": "18.5 MB",
-          "downloads": 68,
+          "downloads": 83,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Linux-arm64.deb",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Linux-arm64.deb.sig",
           "size": "0.0 MB",
-          "downloads": 16,
+          "downloads": 19,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Linux-arm64.deb.sig",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Linux-arm64.rpm",
           "size": "18.5 MB",
-          "downloads": 22,
+          "downloads": 23,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Linux-arm64.rpm",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Linux-arm64.rpm.sig",
           "size": "0.0 MB",
-          "downloads": 11,
+          "downloads": 13,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Linux-arm64.rpm.sig",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Linux-x86_64.AppImage",
           "size": "94.4 MB",
-          "downloads": 84,
+          "downloads": 96,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Linux-x86_64.AppImage",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Linux-x86_64.AppImage.sig",
           "size": "0.0 MB",
-          "downloads": 12,
+          "downloads": 14,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Linux-x86_64.AppImage.sig",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Linux-x86_64.deb",
           "size": "19.4 MB",
-          "downloads": 258,
+          "downloads": 324,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Linux-x86_64.deb",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Linux-x86_64.deb.sig",
           "size": "0.0 MB",
-          "downloads": 18,
+          "downloads": 20,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Linux-x86_64.deb.sig",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Linux-x86_64.rpm",
           "size": "19.4 MB",
-          "downloads": 38,
+          "downloads": 39,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Linux-x86_64.rpm",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Linux-x86_64.rpm.sig",
           "size": "0.0 MB",
-          "downloads": 10,
+          "downloads": 11,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Linux-x86_64.rpm.sig",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-macOS.dmg",
           "size": "39.0 MB",
-          "downloads": 6875,
+          "downloads": 7947,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-macOS.dmg",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-macOS.tar.gz",
           "size": "40.1 MB",
-          "downloads": 245,
+          "downloads": 310,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-macOS.tar.gz",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-macOS.tar.gz.sig",
           "size": "0.0 MB",
-          "downloads": 11,
+          "downloads": 12,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-macOS.tar.gz.sig",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-macOS.zip",
           "size": "39.0 MB",
-          "downloads": 81,
+          "downloads": 96,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-macOS.zip",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Windows-arm64-Portable.zip",
           "size": "18.3 MB",
-          "downloads": 127,
+          "downloads": 158,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Windows-arm64-Portable.zip",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Windows-arm64.msi",
           "size": "18.4 MB",
-          "downloads": 256,
+          "downloads": 296,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Windows-arm64.msi",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Windows-arm64.msi.sig",
           "size": "0.0 MB",
-          "downloads": 20,
+          "downloads": 21,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Windows-arm64.msi.sig",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Windows-Portable.zip",
           "size": "19.2 MB",
-          "downloads": 739,
+          "downloads": 874,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Windows-Portable.zip",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Windows.msi",
           "size": "19.2 MB",
-          "downloads": 2080,
+          "downloads": 2421,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Windows.msi",
           "sha256": null
         },
         {
           "name": "CC-Switch-v4.0.30-Windows.msi.sig",
           "size": "0.0 MB",
-          "downloads": 39,
+          "downloads": 40,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/CC-Switch-v4.0.30-Windows.msi.sig",
           "sha256": null
         },
         {
           "name": "latest.json",
           "size": "0.0 MB",
-          "downloads": 5480,
+          "downloads": 6304,
           "official_url": "https://github.com/farion1231/cc-switch/releases/download/v4.0.30/latest.json",
           "sha256": null
         }
@@ -194,14 +194,14 @@
         {
           "name": "godot-4.7.2-stable.tar.xz",
           "size": "45.5 MB",
-          "downloads": 8824,
+          "downloads": 8826,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/godot-4.7.2-stable.tar.xz",
           "sha256": null
         },
         {
           "name": "godot-4.7.2-stable.tar.xz.sha256",
           "size": "0.0 MB",
-          "downloads": 2557,
+          "downloads": 2558,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/godot-4.7.2-stable.tar.xz.sha256",
           "sha256": null
         },
@@ -257,28 +257,28 @@
         {
           "name": "Godot_v4.7.2-stable_android_editor.apk",
           "size": "656.3 MB",
-          "downloads": 7486,
+          "downloads": 7492,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_editor.apk",
           "sha256": null
         },
         {
           "name": "Godot_v4.7.2-stable_android_editor_horizonos.apk",
           "size": "161.2 MB",
-          "downloads": 1468,
+          "downloads": 1474,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_editor_horizonos.apk",
           "sha256": null
         },
         {
           "name": "Godot_v4.7.2-stable_android_editor_picoos.apk",
           "size": "168.2 MB",
-          "downloads": 1419,
+          "downloads": 1425,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_editor_picoos.apk",
           "sha256": null
         },
         {
           "name": "Godot_v4.7.2-stable_android_release.perfetto.apk",
           "size": "102.4 MB",
-          "downloads": 1892,
+          "downloads": 1897,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_android_release.perfetto.apk",
           "sha256": null
         },
@@ -292,7 +292,7 @@
         {
           "name": "Godot_v4.7.2-stable_export_templates.tpz",
           "size": "1222.0 MB",
-          "downloads": 573106,
+          "downloads": 573386,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_export_templates.tpz",
           "sha256": null
         },
@@ -306,7 +306,7 @@
         {
           "name": "Godot_v4.7.2-stable_linux.arm64.zip",
           "size": "73.4 MB",
-          "downloads": 25803,
+          "downloads": 25839,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_linux.arm64.zip",
           "sha256": null
         },
@@ -320,21 +320,21 @@
         {
           "name": "Godot_v4.7.2-stable_linux.x86_64.zip",
           "size": "74.3 MB",
-          "downloads": 980252,
+          "downloads": 980816,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_linux.x86_64.zip",
           "sha256": null
         },
         {
           "name": "Godot_v4.7.2-stable_macos.universal.zip",
           "size": "162.7 MB",
-          "downloads": 308313,
+          "downloads": 308415,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_macos.universal.zip",
           "sha256": null
         },
         {
           "name": "Godot_v4.7.2-stable_mono_export_templates.tpz",
           "size": "1146.9 MB",
-          "downloads": 48724,
+          "downloads": 48763,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_export_templates.tpz",
           "sha256": null
         },
@@ -362,14 +362,14 @@
         {
           "name": "Godot_v4.7.2-stable_mono_linux_x86_64.zip",
           "size": "102.7 MB",
-          "downloads": 114886,
+          "downloads": 114961,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_linux_x86_64.zip",
           "sha256": null
         },
         {
           "name": "Godot_v4.7.2-stable_mono_macos.universal.zip",
           "size": "191.5 MB",
-          "downloads": 12607,
+          "downloads": 12611,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_macos.universal.zip",
           "sha256": null
         },
@@ -383,7 +383,7 @@
         {
           "name": "Godot_v4.7.2-stable_mono_win64.zip",
           "size": "111.2 MB",
-          "downloads": 44801,
+          "downloads": 44815,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_mono_win64.zip",
           "sha256": null
         },
@@ -411,21 +411,21 @@
         {
           "name": "Godot_v4.7.2-stable_win64.exe.zip",
           "size": "82.0 MB",
-          "downloads": 334233,
+          "downloads": 334396,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_win64.exe.zip",
           "sha256": null
         },
         {
           "name": "Godot_v4.7.2-stable_windows_arm64.exe.zip",
           "size": "80.4 MB",
-          "downloads": 2170,
+          "downloads": 2171,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_windows_arm64.exe.zip",
           "sha256": null
         },
         {
           "name": "SHA512-SUMS.txt",
           "size": "0.0 MB",
-          "downloads": 242486,
+          "downloads": 242619,
           "official_url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/SHA512-SUMS.txt",
           "sha256": null
         }
@@ -443,7 +443,7 @@
         {
           "name": "checksums.txt",
           "size": "0.0 MB",
-          "downloads": 28906,
+          "downloads": 29088,
           "official_url": "https://github.com/rtk-ai/rtk/releases/download/v1.2.0/checksums.txt",
           "sha256": null
         },
@@ -464,21 +464,21 @@
         {
           "name": "rtk-aarch64-apple-darwin.tar.gz",
           "size": "5.7 MB",
-          "downloads": 15253,
+          "downloads": 15320,
           "official_url": "https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-aarch64-apple-darwin.tar.gz",
           "sha256": null
         },
         {
           "name": "rtk-aarch64-unknown-linux-gnu.tar.gz",
           "size": "6.0 MB",
-          "downloads": 674,
+          "downloads": 679,
           "official_url": "https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-aarch64-unknown-linux-gnu.tar.gz",
           "sha256": null
         },
         {
           "name": "rtk-aarch64-unknown-linux-musl.tar.gz",
           "size": "6.1 MB",
-          "downloads": 1313,
+          "downloads": 1323,
           "official_url": "https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-aarch64-unknown-linux-musl.tar.gz",
           "sha256": null
         },
@@ -499,14 +499,14 @@
         {
           "name": "rtk-oss-aarch64-apple-darwin.tar.gz",
           "size": "4.9 MB",
-          "downloads": 693,
+          "downloads": 696,
           "official_url": "https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss-aarch64-apple-darwin.tar.gz",
           "sha256": null
         },
         {
           "name": "rtk-oss-aarch64-unknown-linux-gnu.tar.gz",
           "size": "5.1 MB",
-          "downloads": 157,
+          "downloads": 158,
           "official_url": "https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss-aarch64-unknown-linux-gnu.tar.gz",
           "sha256": null
         },
@@ -527,14 +527,14 @@
         {
           "name": "rtk-oss-x86_64-pc-windows-msvc.zip",
           "size": "5.6 MB",
-          "downloads": 1036,
+          "downloads": 1044,
           "official_url": "https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss-x86_64-pc-windows-msvc.zip",
           "sha256": null
         },
         {
           "name": "rtk-oss-x86_64-unknown-linux-musl.tar.gz",
           "size": "5.8 MB",
-          "downloads": 1555,
+          "downloads": 1567,
           "official_url": "https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss-x86_64-unknown-linux-musl.tar.gz",
           "sha256": null
         },
@@ -618,28 +618,28 @@
         {
           "name": "rtk-proxy-x86_64-unknown-linux-musl.tar.gz",
           "size": "8.3 MB",
-          "downloads": 121,
+          "downloads": 122,
           "official_url": "https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-proxy-x86_64-unknown-linux-musl.tar.gz",
           "sha256": null
         },
         {
           "name": "rtk-x86_64-apple-darwin.tar.gz",
           "size": "6.2 MB",
-          "downloads": 571,
+          "downloads": 575,
           "official_url": "https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-x86_64-apple-darwin.tar.gz",
           "sha256": null
         },
         {
           "name": "rtk-x86_64-pc-windows-msvc.zip",
           "size": "6.5 MB",
-          "downloads": 12287,
+          "downloads": 12384,
           "official_url": "https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-x86_64-pc-windows-msvc.zip",
           "sha256": null
         },
         {
           "name": "rtk-x86_64-unknown-linux-musl.tar.gz",
           "size": "6.8 MB",
-          "downloads": 20547,
+          "downloads": 20694,
           "official_url": "https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-x86_64-unknown-linux-musl.tar.gz",
           "sha256": null
         },
@@ -660,7 +660,7 @@
         {
           "name": "rtk_1.2.0-1_amd64.deb",
           "size": "5.1 MB",
-          "downloads": 123,
+          "downloads": 124,
           "official_url": "https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk_1.2.0-1_amd64.deb",
           "sha256": null
         },
@@ -707,7 +707,7 @@
         {
           "name": "redis-full.tar.gz",
           "size": "20.6 MB",
-          "downloads": 1542,
+          "downloads": 1547,
           "official_url": "https://github.com/redis/redis/releases/download/8.10.3/redis-full.tar.gz",
           "sha256": null
         }
@@ -725,7 +725,7 @@
         {
           "name": "checksums.txt",
           "size": "0.0 MB",
-          "downloads": 338,
+          "downloads": 340,
           "official_url": "https://github.com/usememos/memos/releases/download/26.11.0/checksums.txt",
           "sha256": null
         },
@@ -746,7 +746,7 @@
         {
           "name": "memos_26.11.0_linux_amd64.tar.gz",
           "size": "20.1 MB",
-          "downloads": 1039,
+          "downloads": 1046,
           "official_url": "https://github.com/usememos/memos/releases/download/26.11.0/memos_26.11.0_linux_amd64.tar.gz",
           "sha256": null
         },
@@ -767,7 +767,7 @@
         {
           "name": "memos_26.11.0_windows_amd64.zip",
           "size": "20.5 MB",
-          "downloads": 810,
+          "downloads": 811,
           "official_url": "https://github.com/usememos/memos/releases/download/26.11.0/memos_26.11.0_windows_amd64.zip",
           "sha256": null
         }
@@ -813,77 +813,77 @@
         {
           "name": "jan-cargo-vendor-v0.8.8.tar.gz",
           "size": "170.8 MB",
-          "downloads": 280,
+          "downloads": 283,
           "official_url": "https://github.com/janhq/jan/releases/download/v0.8.8/jan-cargo-vendor-v0.8.8.tar.gz",
           "sha256": null
         },
         {
           "name": "jan-dependency-tarballs-v0.8.8.sha256",
           "size": "0.0 MB",
-          "downloads": 198,
+          "downloads": 200,
           "official_url": "https://github.com/janhq/jan/releases/download/v0.8.8/jan-dependency-tarballs-v0.8.8.sha256",
           "sha256": null
         },
         {
           "name": "jan-mac-universal-0.8.8.zip",
           "size": "110.3 MB",
-          "downloads": 30995,
+          "downloads": 31042,
           "official_url": "https://github.com/janhq/jan/releases/download/v0.8.8/jan-mac-universal-0.8.8.zip",
           "sha256": null
         },
         {
           "name": "jan-yarn-cache-v0.8.8.tar.gz",
           "size": "189.5 MB",
-          "downloads": 180,
+          "downloads": 181,
           "official_url": "https://github.com/janhq/jan/releases/download/v0.8.8/jan-yarn-cache-v0.8.8.tar.gz",
           "sha256": null
         },
         {
           "name": "Jan.app.tar.gz",
           "size": "113.4 MB",
-          "downloads": 3223,
+          "downloads": 3228,
           "official_url": "https://github.com/janhq/jan/releases/download/v0.8.8/Jan.app.tar.gz",
           "sha256": null
         },
         {
           "name": "Jan_0.8.8_amd64.AppImage",
           "size": "679.7 MB",
-          "downloads": 4883,
+          "downloads": 4888,
           "official_url": "https://github.com/janhq/jan/releases/download/v0.8.8/Jan_0.8.8_amd64.AppImage",
           "sha256": null
         },
         {
           "name": "Jan_0.8.8_amd64.deb",
           "size": "1013.5 MB",
-          "downloads": 3535,
+          "downloads": 3538,
           "official_url": "https://github.com/janhq/jan/releases/download/v0.8.8/Jan_0.8.8_amd64.deb",
           "sha256": null
         },
         {
           "name": "Jan_0.8.8_arm64-setup.exe",
           "size": "320.0 MB",
-          "downloads": 1082,
+          "downloads": 1087,
           "official_url": "https://github.com/janhq/jan/releases/download/v0.8.8/Jan_0.8.8_arm64-setup.exe",
           "sha256": null
         },
         {
           "name": "Jan_0.8.8_universal.dmg",
           "size": "110.5 MB",
-          "downloads": 6583,
+          "downloads": 6600,
           "official_url": "https://github.com/janhq/jan/releases/download/v0.8.8/Jan_0.8.8_universal.dmg",
           "sha256": null
         },
         {
           "name": "Jan_0.8.8_x64-setup.exe",
           "size": "545.2 MB",
-          "downloads": 41926,
+          "downloads": 41974,
           "official_url": "https://github.com/janhq/jan/releases/download/v0.8.8/Jan_0.8.8_x64-setup.exe",
           "sha256": null
         },
         {
           "name": "latest.json",
           "size": "0.0 MB",
-          "downloads": 92419,
+          "downloads": 92597,
           "official_url": "https://github.com/janhq/jan/releases/download/v0.8.8/latest.json",
           "sha256": null
         }
@@ -923,14 +923,14 @@
         {
           "name": "codew-linux-arm64",
           "size": "85.3 MB",
-          "downloads": 318,
+          "downloads": 319,
           "official_url": "https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.2/codew-linux-arm64",
           "sha256": null
         },
         {
           "name": "codew-linux-x64",
           "size": "105.1 MB",
-          "downloads": 2411,
+          "downloads": 2412,
           "official_url": "https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.2/codew-linux-x64",
           "sha256": null
         },
@@ -958,7 +958,7 @@
         {
           "name": "codew-windows-x64.exe",
           "size": "128.5 MB",
-          "downloads": 2800,
+          "downloads": 2806,
           "official_url": "https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.2/codew-windows-x64.exe",
           "sha256": null
         },
@@ -979,7 +979,7 @@
         {
           "name": "codewhale-artifacts-sha256.txt",
           "size": "0.0 MB",
-          "downloads": 7861,
+          "downloads": 7871,
           "official_url": "https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.2/codewhale-artifacts-sha256.txt",
           "sha256": null
         },
@@ -1007,14 +1007,14 @@
         {
           "name": "codewhale-linux-x64",
           "size": "105.1 MB",
-          "downloads": 3631,
+          "downloads": 3635,
           "official_url": "https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.2/codewhale-linux-x64",
           "sha256": null
         },
         {
           "name": "codewhale-linux-x64.tar.gz",
           "size": "88.6 MB",
-          "downloads": 245,
+          "downloads": 246,
           "official_url": "https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.2/codewhale-linux-x64.tar.gz",
           "sha256": null
         },
@@ -1091,7 +1091,7 @@
         {
           "name": "codewhale-tui-windows-x64.exe",
           "size": "128.5 MB",
-          "downloads": 840,
+          "downloads": 841,
           "official_url": "https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.2/codewhale-tui-windows-x64.exe",
           "sha256": null
         },
@@ -1126,7 +1126,7 @@
         {
           "name": "codewhale-windows-x64.exe",
           "size": "128.5 MB",
-          "downloads": 3392,
+          "downloads": 3399,
           "official_url": "https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.2/codewhale-windows-x64.exe",
           "sha256": null
         },
@@ -1160,7 +1160,7 @@
         {
           "name": "maigret_standalone.exe",
           "size": "41.4 MB",
-          "downloads": 6594,
+          "downloads": 6601,
           "official_url": "https://github.com/soxoj/maigret/releases/download/v0.6.6/maigret_standalone.exe",
           "sha256": null
         }
@@ -1208,7 +1208,7 @@
         {
           "name": "Openscreen.Setup.1.5.0.exe",
           "size": "270.8 MB",
-          "downloads": 30387,
+          "downloads": 30397,
           "official_url": "https://github.com/siddharthvaddem/openscreen/releases/download/v1.5.0/Openscreen.Setup.1.5.0.exe",
           "sha256": null
         }
@@ -1221,14 +1221,14 @@
         {
           "name": "Spacedrive-darwin-aarch64.dmg",
           "size": "79.9 MB",
-          "downloads": 92433,
+          "downloads": 92439,
           "official_url": "https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-darwin-aarch64.dmg",
           "sha256": null
         },
         {
           "name": "Spacedrive-darwin-x86_64.dmg",
           "size": "85.7 MB",
-          "downloads": 16774,
+          "downloads": 16777,
           "official_url": "https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-darwin-x86_64.dmg",
           "sha256": null
         },
@@ -1242,7 +1242,7 @@
         {
           "name": "Spacedrive-linux-x86_64.deb",
           "size": "85.4 MB",
-          "downloads": 24753,
+          "downloads": 24754,
           "official_url": "https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-linux-x86_64.deb",
           "sha256": null
         },
@@ -1291,7 +1291,7 @@
         {
           "name": "Spacedrive-windows-x86_64.msi",
           "size": "86.9 MB",
-          "downloads": 36175,
+          "downloads": 36177,
           "official_url": "https://github.com/spacedriveapp/spacedrive/releases/download/0.4.3/Spacedrive-windows-x86_64.msi",
           "sha256": null
         }
