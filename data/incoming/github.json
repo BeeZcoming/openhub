@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:06:36.093742",
+  "generated_at": "2026-11-13T03:44:12.962363",
   "items": [
     {
       "id": "gh-public-apis-public-apis",
@@ -24,13 +24,13 @@
         "list"
       ],
       "license": "MIT",
-      "stars": 498338,
+      "stars": 498562,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -59,13 +59,13 @@
         "claude"
       ],
       "license": "NOASSERTION",
-      "stars": 176947,
+      "stars": 177022,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -94,13 +94,13 @@
         "grok"
       ],
       "license": "MIT",
-      "stars": 153768,
+      "stars": 154015,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -129,13 +129,13 @@
         "deepagents"
       ],
       "license": "MIT",
-      "stars": 149387,
+      "stars": 149423,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -164,13 +164,13 @@
         "cursorai"
       ],
       "license": "GPL-3.0",
-      "stars": 144622,
+      "stars": 144639,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -199,13 +199,13 @@
         "multi-platform"
       ],
       "license": "MIT",
-      "stars": 120010,
+      "stars": 120049,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -234,13 +234,13 @@
         "llm"
       ],
       "license": "Apache-2.0",
-      "stars": 87252,
+      "stars": 87288,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -269,13 +269,13 @@
         "command-line-tool"
       ],
       "license": "Apache-2.0",
-      "stars": 86282,
+      "stars": 86394,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -304,13 +304,13 @@
         "career-ops"
       ],
       "license": "MIT",
-      "stars": 82058,
+      "stars": 82250,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -339,13 +339,13 @@
         "cursor"
       ],
       "license": "AGPL-3.0",
-      "stars": 79781,
+      "stars": 80053,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -374,13 +374,13 @@
         "in-memory-database"
       ],
       "license": "NOASSERTION",
-      "stars": 77467,
+      "stars": 77485,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -409,13 +409,13 @@
         "website"
       ],
       "license": "MIT",
-      "stars": 66714,
+      "stars": 66724,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -444,13 +444,13 @@
         "microblog"
       ],
       "license": "MIT",
-      "stars": 64412,
+      "stars": 64431,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -479,13 +479,13 @@
         "hacktoberfest"
       ],
       "license": "NOASSERTION",
-      "stars": 60812,
+      "stars": 60858,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -514,13 +514,13 @@
         "good-first-contribution"
       ],
       "license": "MIT",
-      "stars": 56810,
+      "stars": 56825,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -549,13 +549,13 @@
         "c-plus-plus"
       ],
       "license": "CC0-1.0",
-      "stars": 51332,
+      "stars": 51354,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -584,13 +584,13 @@
         "t3-stack"
       ],
       "license": "MIT",
-      "stars": 49958,
+      "stars": 49987,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -619,13 +619,13 @@
         "rust"
       ],
       "license": "Apache-2.0",
-      "stars": 49701,
+      "stars": 49716,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -654,13 +654,13 @@
         "frontend"
       ],
       "license": null,
-      "stars": 48429,
+      "stars": 48438,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -689,13 +689,13 @@
         "headless"
       ],
       "license": "MIT",
-      "stars": 45782,
+      "stars": 45796,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -724,13 +724,13 @@
         "hacktoberfest"
       ],
       "license": "Apache-2.0",
-      "stars": 45763,
+      "stars": 45775,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -759,13 +759,13 @@
         "open-source"
       ],
       "license": "NOASSERTION",
-      "stars": 45679,
+      "stars": 45695,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -794,13 +794,13 @@
         "enterprise"
       ],
       "license": "MIT",
-      "stars": 44831,
+      "stars": 44876,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -829,13 +829,13 @@
         "dropbox"
       ],
       "license": "AGPL-3.0",
-      "stars": 44151,
+      "stars": 44159,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -864,13 +864,13 @@
         "instruction-set"
       ],
       "license": "Apache-2.0",
-      "stars": 42215,
+      "stars": 42273,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -899,13 +899,13 @@
         "postiz-hosted"
       ],
       "license": "AGPL-3.0",
-      "stars": 41408,
+      "stars": 41479,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -920,18 +920,18 @@
       },
       "description": {
         "zh": "",
-        "en": "Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome"
+        "en": "An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read."
       },
       "url": "https://github.com/codewhale-hq/Codewhale",
       "repo": "codewhale-hq/Codewhale",
       "category": [],
       "tags": [
+        "agent-client-protocol",
         "agent-orchestration",
         "ai-agent",
+        "ai-coding",
         "cli",
-        "codewhale",
-        "coding-agent",
-        "developer-tools"
+        "coding-agent"
       ],
       "license": "MIT",
       "stars": 41179,
@@ -939,8 +939,8 @@
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -969,13 +969,13 @@
         "investigation"
       ],
       "license": "MIT",
-      "stars": 40431,
+      "stars": 40544,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -1003,13 +1003,13 @@
         "screen-recorder"
       ],
       "license": "MIT",
-      "stars": 40026,
+      "stars": 40030,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
@@ -1038,13 +1038,13 @@
         "rust"
       ],
       "license": "Apache-2.0",
-      "stars": 39496,
+      "stars": 39505,
       "status": "draft",
       "featured": false,
       "managed_by": "bot",
       "source": "github-api",
-      "created_at": "2026-11-12",
-      "updated_at": "2026-11-12",
+      "created_at": "2026-11-13",
+      "updated_at": "2026-11-13",
       "releases": {
         "tag": null,
         "assets": []
