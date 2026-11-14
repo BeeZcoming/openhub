@@ -4,7 +4,7 @@
       "source": "README.md",
       "branch": "master",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-f-prompts.chat": {
@@ -12,7 +12,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-farion1231-cc-switch": {
@@ -20,7 +20,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-langchain-ai-langchain": {
@@ -28,7 +28,7 @@
       "source": "README.md",
       "branch": "master",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-x1xhlol-system-prompts-and-models-of-ai-tools": {
@@ -36,7 +36,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-godotengine-godot": {
@@ -44,7 +44,7 @@
       "source": "README.md",
       "branch": "master",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-unclecode-crawl4ai": {
@@ -52,7 +52,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-rtk-ai-rtk": {
@@ -60,13 +60,13 @@
       "source": "README.md",
       "branch": "master",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     },
     "zh": {
       "source": "README_zh.md",
       "branch": "master",
       "lang": "zh",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-career-ops-hq-career-ops": {
@@ -74,13 +74,13 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     },
     "zh": {
       "source": "README.cn.md",
       "branch": "main",
       "lang": "zh",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-openmontageinc-openmontage": {
@@ -88,13 +88,13 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     },
     "zh": {
       "source": "README_zh-CN.md",
       "branch": "main",
       "lang": "zh",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-redis-redis": {
@@ -102,7 +102,7 @@
       "source": "README.md",
       "branch": "master",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-meta-docusaurus": {
@@ -110,7 +110,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-usememos-memos": {
@@ -118,7 +118,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-twentyhq-twenty": {
@@ -126,7 +126,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-firstcontributions-first-contributions": {
@@ -134,7 +134,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-serhii-londar-open-source-mac-os-apps": {},
@@ -143,7 +143,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-bevyengine-bevy": {
@@ -151,7 +151,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-githubdaily-githubdaily": {
@@ -159,7 +159,7 @@
       "source": "README.md",
       "branch": "master",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-payloadcms-payload": {
@@ -167,7 +167,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-juspay-hyperswitch": {
@@ -175,7 +175,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-janhq-jan": {
@@ -183,13 +183,13 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     },
     "zh": {
       "source": "README.zh.md",
       "branch": "main",
       "lang": "zh",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-langchain-ai-langgraph": {
@@ -197,7 +197,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-heyputer-puter": {
@@ -205,7 +205,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-lyogavin-airllm": {
@@ -213,7 +213,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-gitroomhq-postiz-app": {
@@ -221,7 +221,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-codewhale-hq-codewhale": {
@@ -229,7 +229,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-soxoj-maigret": {
@@ -237,13 +237,13 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     },
     "zh": {
       "source": "README.zh-CN.md",
       "branch": "main",
       "lang": "zh",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-siddharthvaddem-openscreen": {
@@ -251,7 +251,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   },
   "gh-spacedriveapp-spacedrive": {
@@ -259,7 +259,7 @@
       "source": "README.md",
       "branch": "main",
       "lang": "en",
-      "fetched_at": "2026-11-13"
+      "fetched_at": "2026-11-14"
     }
   }
 }
