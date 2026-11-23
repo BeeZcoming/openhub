@@ -1,8 +1,3 @@
 {
-  "items": [
-    {
-      "url": "https://raw.githubusercontent.com/serhii-londar/open-source-mac-os-apps/master/README.md",
-      "error": "readme too large, skipped"
-    }
-  ]
+  "items": []
 }
