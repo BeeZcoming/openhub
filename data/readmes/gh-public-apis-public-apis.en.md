@@ -407,6 +407,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Quran-api](https://github.com/fawazahmed0/quran-api#readme) | Free Quran API Service with 90+ different languages and 400+ translations | No | Yes | Yes |
 | [Readark](https://readark.app/developers/) | Dark romance books with spice and darkness ratings, subgenres, tropes and authors | No | Yes | Yes |
 | [Runyankole Bible](https://runyankole-bible-api.vercel.app) | Free REST API for the Runyankore-Rukiga Bible — 66 books, 31106 verses | No | Yes | Yes |
+| [Sovereign Logos](https://sovereignlogos.com/developers) | Septuagint, KJV with Apocrypha, Geneva and WEB Bible text with citation links | No | Yes | Yes |
 | [The Bible](https://docs.api.bible) | Everything you need from the Bible in one discoverable place | `apiKey` | Yes | Unknown |
 | [Thirukkural](https://api-thirukkural.web.app/) | 1330 Thirukkural poems and explanation in Tamil and English | No | Yes | Yes |
 | [Urantia Papers](https://urantia.dev) | Full-text + semantic search across the Urantia Papers, with audio narration, entities, translations | No | Yes | Yes |
@@ -564,6 +565,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Alchemy Ethereum](https://www.alchemy.com/docs/) | Ethereum Node-as-a-Service Provider | `apiKey` | Yes | Yes |
 | [Alpha (Mossland)](https://alpha.moss.land/developers) | Korean crypto channel stance + RAG Q&A + canonical entity/topic/event store | No | Yes | Yes |
 | [AlphaGrowth](https://alphagrowth.io/openapi.json) | Crypto project metrics, community growth, funding rounds, investors, chains, fees and DAO treasuries | No | Yes | No |
+| [BaniPool](https://banipool.com/docs/api) | Multichain DEX liquidity pools (Uniswap, Aerodrome, Orca, Raydium) with TVL, volume and fee APR | No | Yes | No |
 | [Binance](https://github.com/binance/binance-spot-api-docs) | Exchange for Trading Cryptocurrencies based in China | `apiKey` | Yes | Unknown |
 | [Bitcambio](https://nova.bitcambio.com.br/api/v3/docs#a-public) | Get the list of all traded assets in the exchange | No | Yes | Unknown |
 | [BitcoinAverage](https://apiv2.bitcoinaverage.com/) | Digital Asset Price Data for the blockchain industry | `apiKey` | Yes | Unknown |
@@ -656,6 +658,7 @@ API | Description | Auth | HTTPS | CORS |
 | [PumpFunData](https://pumpfundata.com/docs) | Historical Pump.fun and PumpSwap AMM swap data as hourly Parquet files | `apiKey` | Yes | Unknown |
 | [Shumi](https://docs.shumi.ai/api-reference/introduction) | Crypto market data: prices, trends, funding rates, sentiment, narratives and market regime | `apiKey` | Yes | Yes |
 | [SoChain](https://sochain.com/docs) | Bitcoin, Litecoin, Dogecoin and Zcash addresses, transactions, blocks and fees | No | Yes | Yes |
+| [SODAX](https://docs.sodax.com/developers/http-api) | Cross-network swap quotes and intents across 20+ networks, plus token, price and intent data | `apiKey` | Yes | Yes |
 | [Solana JSON RPC](https://docs.solana.com/developing/clients/jsonrpc-api) | Provides various endpoints to interact with the Solana Blockchain | No | Yes | Unknown |
 | [SoloLuck](https://sololuck.io/api) | Bitcoin solo mining pool stats, per-address miner stats and an open dataset of solo-mined blocks | No | Yes | Yes |
 | [Swiftedge](https://swiftedge.uk/developers) | Live order book walls, resting liquidity, funding, open interest and large trades for 9 markets | No | Yes | Yes |
@@ -1055,6 +1058,7 @@ API | Description | Auth | HTTPS | CORS |
 | [DocCheap](https://doc.cheap/docs) | Read passports, ID cards and driver's licences into JSON, $0.01 per recognised document | `apiKey` | Yes | Yes |
 | [DocSpring](https://docspring.com/docs/api/) | Fill PDF forms, generate PDFs and Word documents, and collect e-signatures. Free plan | `apiKey` | Yes | Yes |
 | [DocStruct](https://docstruct.pages.dev) | AI extraction of invoices, receipts, bank statements & contracts into structured JSON/CSV | No | Yes | Yes |
+| [EditPDF Tools](https://editpdf.tools/compress-pdf-api) | Compress PDF files over HTTPS with 3 quality levels. Free tier: 30 files/month, up to 10 MB | `apiKey` | Yes | No |
 | [Emboss](https://getemboss.ai/docs) | Make PDF forms fillable, fill them from JSON or documents, and read filled forms back | `apiKey` | Yes | No |
 | [emissaoja](https://emissaoja.com.br/docs/) | Issue Brazilian NFS-e service invoices via Emissor Nacional, no digital certificate; free sandbox | `apiKey` | Yes | No |
 | [FaturaPDF](https://rapidapi.com/leosanchees2014/api/brazilian-invoice-receipt-pdf-api-cpf-cnpj) | Generate Brazilian invoice/receipt PDFs with checksum-validated CPF/CNPJ and PIX QR | `apiKey` | Yes | Unknown |
@@ -2042,6 +2046,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Songsterr](https://www.songsterr.com/) | Provides guitar, bass and drums tabs and chords | No | Yes | Unknown |
 | [SoundCloud](https://developers.soundcloud.com/docs/api/guide) | With SoundCloud API you can build applications that will give more power to control your content | `OAuth` | Yes | Unknown |
 | [Spotify](https://beta.developer.spotify.com/documentation/web-api/) | View Spotify music catalog, manage users' libraries, get recommendations and more | `OAuth` | Yes | Unknown |
+| [Static Radio](https://staticradio.app/developers) | Live schedule and listener counts for nine radio stations of independent podcasts | No | Yes | Yes |
 | [StemConsole](https://stemconsole.ai/developers/) | Split songs into vocals, drums, bass and other stems with AI | `apiKey` | Yes | Yes |
 | [Sunor](https://docs.sunor.cc) | AI music generation API via Suno, with pay-as-you-go credits | `apiKey` | Yes | Unknown |
 | [TasteDive](https://tastedive.com/read/api) | Similar artist API (also works for movies and TV shows) | `apiKey` | Yes | Unknown |
@@ -2509,6 +2514,7 @@ API | Description | Auth | HTTPS | CORS |
 | [OpenTiendas](https://opentiendas.dev/redocusaurus/plugin-redoc-0.yaml) | Official e-commerce API and webhooks | `apiKey` | Yes | Unknown |
 | [Outfit Showcase](https://github.com/hanchenxing1/outfit-showcase-card-api) | Issue a 30-day, 100-use virtual clothing try-on showcase link per request | `apiKey` | Yes | Unknown |
 | [Pangolinfo Amazon Data](https://docs.pangolinfo.com) | Amazon product, review, search and Best Sellers data across 20+ marketplaces | `apiKey` | Yes | Unknown |
+| [Prezzi in Vista](https://www.prezzinvista.it/developers/) | Offers in the weekly flyers of Italian supermarket and electronics chains, with the nearest store | No | Yes | Yes |
 | [Product Page Extractor](https://rapidapi.com/MohamedBahaa/api/product-page-extractor) | Product name, price, currency, stock and offers from store pages via JSON-LD and OpenGraph | `apiKey` | Yes | Unknown |
 | [Profitvana](https://www.profitvana.com/developers) | Seller fees for 31 marketplaces and payment processors, verified monthly | No | Yes | Yes |
 | [Rappi](https://dev-portal.rappi.com/) | Manage orders from Rappi's app | `OAuth` | Yes | Unknown |
@@ -2806,6 +2812,7 @@ API | Description | Auth | HTTPS | CORS |
 | [CruiseFeed](https://cruisefeed.io) | Normalized cruise line inventory: ships, sailings, itineraries, ports and lead-in fares | `apiKey` | Yes | Unknown |
 | [CTS](https://api.cts-strasbourg.eu/) | CTS Realtime API | `apiKey` | Yes | Yes |
 | [FlyItalyADSB](https://flyitalyadsb.com/en/data/api/docs/) | Live and historical ADS-B and MLAT aircraft positions worldwide, from a community receiver network | `apiKey` | Yes | Yes |
+| [GADUIN](https://gaduin.com/docs/api) | Flight status, airport and rail station boards, ship traffic at 28 chokepoints, 667 port boards | `apiKey` | Yes | Unknown |
 | [Grab](https://developer.grab.com/docs/) | Track deliveries, ride fares, payments and loyalty points | `OAuth` | Yes | Unknown |
 | [GraphHopper](https://docs.graphhopper.com/) | A-to-B routing with turn-by-turn instructions | `apiKey` | Yes | Unknown |
 | [GTFS Scorecard](https://github.com/ChelseaKR/gtfs-scorecard/blob/main/docs/api.md) | Data-quality grades and prioritized fixes for 2,400+ public transit GTFS feed records | No | Yes | Yes |
@@ -2922,6 +2929,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Brazilian Vehicles and Prices](https://deividfortuna.github.io/fipe/) | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | No | Yes | No |
 | [CarSpecs](https://carspecsapi.com/docs) | Car specs for 70,000+ trims since 1945 (make, model, generation, trim) and a VIN decoder | `apiKey` | Yes | No |
 | [CarVector](https://carvector.io/docs) | Vehicle specs, images, recalls, and DTC codes across 1925-2029 | `apiKey` | Yes | Yes |
+| [Census EV](https://censusev.com/api/v1) | Electric and plug-in hybrid cars for sale in the US, with price, mileage, range and price history | No | Yes | Yes |
 | [FuelEconomy](https://www.fueleconomy.gov/feg/ws/index.shtml) | US EPA fuel economy data by year, make and model | No | Yes | Unknown |
 | [Helipaddy sites](https://helipaddy.com/api/) | Helicopter and passenger drone landing site directory, Helipaddy data and much more | `apiKey` | Yes | Unknown |
 | [Kelley Blue Book](http://developer.kbb.com/#!/data/1-Default) | Vehicle info, pricing, configuration, plus much more | `apiKey` | Yes | No |

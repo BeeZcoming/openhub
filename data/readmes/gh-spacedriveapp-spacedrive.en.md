@@ -30,7 +30,7 @@
 ---
 
 > [!IMPORTANT]
-> **Spacedrive 2.0 Beta is planned for November 27, 2026.**
+> **Spacedrive 2.0 Beta is planned for December 5, 2026.**
 >
 > Beta commits to Spacedrive's data model and to preserving your library as
 > it evolves. The release makes self-owned storage practical across
@@ -243,6 +243,10 @@ outputs. Specta generates the TypeScript and Swift clients from those Rust
 types, so every interface shares one contract.
 
 ## Install a nightly
+
+The desktop app includes `sd`. Open Settings, then General, and choose
+Install under Command Line to put it on your `PATH`. The steps below are for
+machines without the app.
 
 The [nightly release](https://github.com/spacedriveapp/spacedrive/releases/tag/nightly)
 carries `sd` and `sd-daemon` for macOS ARM64 (`macos-aarch64`), Linux
